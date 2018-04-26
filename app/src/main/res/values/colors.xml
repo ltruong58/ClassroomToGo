@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffa726</color>
+    <color name="colorPrimaryDark">#ef6c00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLogin">#4fc3f7</color>
+    <color name="colorLoginSuccess">#2e7d32</color>
+    <color name="colorLoginFail">#f44336</color>
+    <color name="colorType">#01579b</color>
+    <color name="colorFull">#cc0000</color>
+    <color name="colorAvailable">#ffbb33</color>
+    <color name="colorEmpty">#99cc00</color>
+    <color name="colorTransparent">#000000</color>
+    <color name= "colorBackGround">#4fc3f7</color>
+    <color name= "quotes">#0D47A1</color>
+    <color name= "authors">#00E5FF</color>
+    <color name= "title">#FE2E2E</color>
+    <color name="profile">#E3F2FD</color>
+</resources>

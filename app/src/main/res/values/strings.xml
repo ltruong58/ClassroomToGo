@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">ClassroomToGo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_activity_student_profile" translatable="false">StudentProfileActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="sign_in">Sign in</string>
+    <string name="student_id">Student ID</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login_fail">Password or student ID is incorrect</string>
+    <string name="login_success">Log in success</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="login_button">Log in</string>
+    <string name="reset_button">Reset</string>
+    <string name="student_id_null">Student ID cannot be null</string>
+    <string name="password_null">Password cannot be null</string>
+
+    <!-- Main activity -->
+    <string name="student_profile">Student Profile</string>
+    <string name="reserve_room">Reserve Room</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="borrow_book">Borrow Book</string>
+    <string name="welcome">WELCOME TO OCC LIBRARY</string>
+    <string name="not_login">* <u>You MUST login to use all library functions. Click to login.</u></string>
+    <string name="flashlight">Flashlight</string>
+
+    <string name="not_login_click_button_error">Please log in before using this function. Thank you.</string>
+    <string name="already_reserve_room">Sorry! Each student can only have 1 upcoming room reservation.</string>
+
+    <!-- Student Profile activity -->
+    <string name="student_information">Student Information</string>
+    <string name="student_activity">Student Activity</string>
+    <string name="id">ID:</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="no_show_times">No show times:</string>
+    <string name="room_reserving">Room reserving:</string>
+    <string name="book_borrowing">Book borrowing:</string>
+    <string name="old_password">Old password:</string>
+    <string name="new_password">New password:</string>
+    <string name="confirm_password">Confirm new password:</string>
+    <string name="change_password">Change password</string>
+    <string name="password_not_match">* Confirm password do not match</string>
+    <string name="password_wrong">* Old password was wrong</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="change">Save change</string>
+
+
+    <!-- Strings related to Settings -->
+    <string name="welcome_screen">Welcome screen</string>
+    <string name="welcome_screen_description">Turn on or off welcome screen</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+
+    <!-- Splash screen -->
+    <string name="splash">\"When I got my library card, that’s when my life began.\"\n
+        – Rita Mae Brown</string>
+    <string name="welcome_occ_library">Welcome to \nOCC library</string>
+    <string name="author" translatable="false">Designed by: \t\n
+                        Long Truong \n
+                        Nguyen Hoang </string>
+
+    <!-- Contact activity -->
+    <string name="contact_label">Contact</string>
+    <string name="office_hours">OFFICE HOURS</string>
+    <string name="contact_info">CONTACT INFOR</string>
+    <string name="hours">Monday: 8 a.m. - 9 p.m. \nTuesday: 8 a.m - 9 p.m. \nWednesday: 8 a.m - 9 p.m. \nThursday: 8 a.m - 9 p.m. \nFriday: 8 a.m - 3 p.m. \nSaturday: 10 a.m - 3 p.m. \nSunday: CLOSED.\n
+    </string>
+    <string name="info">wsmith30@occ.cccd.edu \n(714) 432-5885</string>
+    <string name="location">LOCATION</string>
+    <string name="address" translatable="false">2701 Fairview Road Costa Mesa, California 92626</string>
+
+    <!-- pick time period activity -->
+    <!-- pick date activity -->
+    <string name="pick_date_title">Please pick a available date</string>
+    <string name="dates_range">from %1$s to %2$s</string>
+    <string name="get_date_from_calendar">%1$s/%2$s/%3$s</string>
+
+    <!-- pick room activity -->
+    <string name="room_capacity">Capacity: %1$d</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_setting" translatable="false">SettingActivity</string>
+
+    <string name="pick_room_title">Please pick an available room in %1$s</string>
+
+
+    <!-- pick period activity -->
+    <string name="pick_period_title">Please pick a available period</string>
+    <string name="inform_text_view">
+        Selected Date: %1$s\nSelected Room: %2$d
+    </string>
+
+    <!-- pick time period details activity -->
+    <string name="pick_time_details_title">Please select available time</string>
+    <string name="selected_room_text_view">Selected Room: %1$s </string>
+    <string name="selected_date_text_view">Selected Date: %1$s </string>
+    <string name="ask_start_time_text_view">What time do you want to reserve the room ?</string>
+    <string name="ask_hours_used_text_view">How long will you use this room?</string>
+    <string name="submit_button">Submit</string>
+
+    <!-- room booking details activity -->
+    <string name="room_booking_details_title">Your Booking Confirmation</string>
+    <string name="details">Your reservation is successful. Below is your reservation information:  \n
+        Student name: %1$s \n
+        Selected date: %2$s \n
+        Selected room: %3$s \n
+        Reservation start time: %4$s \n
+        Reservation end time: %5$s \n
+        Thank you for using our service.
+    </string>
+    <string name="room_booking_return_button">Return to Main menu</string>
+    <string name="title_activity_contact">Map</string>
+
+</resources>
